@@ -18,9 +18,8 @@
     [super viewDidLoad];
     
     NSLog(@"1212");
-    NSLog(@"4324324");
     // Do any additional setup after loading the view, typically from a nib.
-    //1.创建NSInvocationOperation对象
+    ////1.创建NSInvocationOperation对象
 //        NSInvocationOperation *operation = [[NSInvocationOperation alloc] initWithTarget:self selector:@selector(run) object:nil];
     //2.开始执行
 //    [operation start];
