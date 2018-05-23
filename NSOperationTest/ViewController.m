@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-
+//换个地方注释
 @interface ViewController ()
 
 @end
@@ -18,6 +18,7 @@
     [super viewDidLoad];
     
     NSLog(@"1212");
+    //测试注释换区
     // Do any additional setup after loading the view, typically from a nib.
     ////1.创建NSInvocationOperation对象
 //        NSInvocationOperation *operation = [[NSInvocationOperation alloc] initWithTarget:self selector:@selector(run) object:nil];
