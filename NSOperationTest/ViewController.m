@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
+    //修改,尝试回滚操作
     NSLog(@"1212");
     // Do any additional setup after loading the view, typically from a nib.
     ////1.创建NSInvocationOperation对象
